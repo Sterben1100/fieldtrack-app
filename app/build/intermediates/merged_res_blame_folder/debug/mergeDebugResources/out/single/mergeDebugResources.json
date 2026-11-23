@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\ITSALES-01\\.gradle\\daemon\\8.10.2\\com.aswfoods.fieldtrack.app-debug-63:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\ITSALES-01\\.gradle\\daemon\\8.10.2\\com.aswfoods.fieldtrack.app-main-65:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\ITSALES-01\\.gradle\\daemon\\8.10.2\\com.aswfoods.fieldtrack.app-debug-63:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\ITSALES-01\\.gradle\\daemon\\8.10.2\\com.aswfoods.fieldtrack.app-main-65:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "com.aswfoods.fieldtrack.app-debug-63:/xml_network_security_config.xml.flat",
+        "source": "com.aswfoods.fieldtrack.app-main-65:/xml/network_security_config.xml"
+    }
+]

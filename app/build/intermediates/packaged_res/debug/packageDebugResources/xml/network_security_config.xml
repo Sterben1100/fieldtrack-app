@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true" />
+    <domain-config cleartextTrafficPermitted="true">
+        <!-- Emulator Alias -->
+        <domain includeSubdomains="true">10.0.2.2</domain>
+        <!-- Localhost & Loopback -->
+        <domain includeSubdomains="true">localhost</domain>
+        <domain includeSubdomains="true">127.0.0.1</domain>
+        <!-- IP Mesin Pengembang Lokal -->
+        <domain includeSubdomains="true">192.168.89.178</domain>
+        <domain includeSubdomains="true">192.168.88.64</domain>
+    </domain-config>
+</network-security-config>

@@ -1,0 +1,66 @@
+com.aswfoods.fieldtrack.app-startup-runtime-1.1.1-0 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\043a53d497ee15bc7b2a543b42e305ad\transformed\startup-runtime-1.1.1\res
+com.aswfoods.fieldtrack.app-lifecycle-runtime-compose-release-1 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\0a2cce697d3559e3b8a30600eecb44e9\transformed\lifecycle-runtime-compose-release\res
+com.aswfoods.fieldtrack.app-ui-graphics-release-2 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\0ad82d7937e86f111cfc26755d8f198d\transformed\ui-graphics-release\res
+com.aswfoods.fieldtrack.app-foundation-layout-release-3 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\0b0baaf74df63f76106f3ecbcea443cf\transformed\foundation-layout-release\res
+com.aswfoods.fieldtrack.app-lifecycle-livedata-core-2.8.7-4 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\0ebedd6a757ca56b71731837fb5dd128\transformed\lifecycle-livedata-core-2.8.7\res
+com.aswfoods.fieldtrack.app-lifecycle-viewmodel-savedstate-2.8.7-5 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\1192d6be199f18cfb1f569b5cbb1511b\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.aswfoods.fieldtrack.app-graphics-path-1.0.1-6 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\15ee38c07b30bc1b5001feef0abfd49d\transformed\graphics-path-1.0.1\res
+com.aswfoods.fieldtrack.app-savedstate-1.2.1-7 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\1782ada4250547a21db8c94fbbbdb44f\transformed\savedstate-1.2.1\res
+com.aswfoods.fieldtrack.app-material-release-8 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\1cc6707c37a3d84d84ea7aa2268ec16f\transformed\material-release\res
+com.aswfoods.fieldtrack.app-ui-release-9 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\233a8d692f58e3e8c4d4ca306f14d3e4\transformed\ui-release\res
+com.aswfoods.fieldtrack.app-ui-tooling-data-release-10 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\2e0e67a528ad0cda5d7236fcce69d314\transformed\ui-tooling-data-release\res
+com.aswfoods.fieldtrack.app-customview-poolingcontainer-1.0.0-11 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\31e1f82d6a2ae360fc2026ccae11c50a\transformed\customview-poolingcontainer-1.0.0\res
+com.aswfoods.fieldtrack.app-foundation-release-12 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\36f6d7b282eb1e9cf6c24ecc08c477b6\transformed\foundation-release\res
+com.aswfoods.fieldtrack.app-sqlite-2.4.0-13 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\37b18619796adcedf24b2a4767ca877f\transformed\sqlite-2.4.0\res
+com.aswfoods.fieldtrack.app-ui-util-release-14 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\38259371900ed423c677e94cbefe2d14\transformed\ui-util-release\res
+com.aswfoods.fieldtrack.app-room-runtime-2.6.1-15 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\3827985c1ff8ddbc86e62bec3548148e\transformed\room-runtime-2.6.1\res
+com.aswfoods.fieldtrack.app-activity-1.10.0-16 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\3d21b240153c408e99a012576884f67b\transformed\activity-1.10.0\res
+com.aswfoods.fieldtrack.app-material3-release-17 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\3d3933dbff53b5680eaf3330bde7f978\transformed\material3-release\res
+com.aswfoods.fieldtrack.app-lifecycle-viewmodel-ktx-2.8.7-18 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\3da19c4ad178337c641a541168b240a1\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.aswfoods.fieldtrack.app-activity-compose-1.10.0-19 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\4af6fc2425a6ac46d99fdf2bac59cf11\transformed\activity-compose-1.10.0\res
+com.aswfoods.fieldtrack.app-lifecycle-viewmodel-compose-release-20 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\4c4e1e497919e7836e7ea9741e37313a\transformed\lifecycle-viewmodel-compose-release\res
+com.aswfoods.fieldtrack.app-work-runtime-2.10.0-21 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\4d157fd53e4cecc432da03d112a45f0a\transformed\work-runtime-2.10.0\res
+com.aswfoods.fieldtrack.app-activity-ktx-1.10.0-22 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\5e18cad14ea8e6037ac204830d627ced\transformed\activity-ktx-1.10.0\res
+com.aswfoods.fieldtrack.app-tracing-ktx-1.2.0-23 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\611c45f1cd382d85fcdf03cce114bcd7\transformed\tracing-ktx-1.2.0\res
+com.aswfoods.fieldtrack.app-lifecycle-livedata-core-ktx-2.8.7-24 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\612f04cec1945361ee515a5f4e3f22a7\transformed\lifecycle-livedata-core-ktx-2.8.7\res
+com.aswfoods.fieldtrack.app-navigation-runtime-2.8.6-25 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\6940943a6187ebd893cb8ea8f4049945\transformed\navigation-runtime-2.8.6\res
+com.aswfoods.fieldtrack.app-navigation-runtime-ktx-2.8.6-26 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\6a9ae19628d7fc99d02f11b815a90824\transformed\navigation-runtime-ktx-2.8.6\res
+com.aswfoods.fieldtrack.app-runtime-saveable-release-27 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\71eb8cf155e4005c7abb92abde08a2a6\transformed\runtime-saveable-release\res
+com.aswfoods.fieldtrack.app-runtime-release-28 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\721a125e9461afbd4c1a4f72660b4e3a\transformed\runtime-release\res
+com.aswfoods.fieldtrack.app-animation-release-29 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\7445de0d9ad15a1503c03cce332f0581\transformed\animation-release\res
+com.aswfoods.fieldtrack.app-emoji2-1.3.0-30 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\7b0ba69ca6b68d8406de3bfd52644fa9\transformed\emoji2-1.3.0\res
+com.aswfoods.fieldtrack.app-annotation-experimental-1.4.1-31 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\8421f461364d749601d9ecd189189859\transformed\annotation-experimental-1.4.1\res
+com.aswfoods.fieldtrack.app-lifecycle-viewmodel-release-32 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\868db155e9f95349f7fe8bbd09c0a08a\transformed\lifecycle-viewmodel-release\res
+com.aswfoods.fieldtrack.app-ui-text-release-33 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\86ded8374d558594269c1e84f50682b2\transformed\ui-text-release\res
+com.aswfoods.fieldtrack.app-lifecycle-process-2.8.7-34 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\92036773b335831879ba54c405a83181\transformed\lifecycle-process-2.8.7\res
+com.aswfoods.fieldtrack.app-navigation-common-2.8.6-35 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\9481bec450750fa62cbf5bad0fbef16e\transformed\navigation-common-2.8.6\res
+com.aswfoods.fieldtrack.app-lifecycle-livedata-2.8.7-36 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\96244402bba11085dd49fa712686220d\transformed\lifecycle-livedata-2.8.7\res
+com.aswfoods.fieldtrack.app-profileinstaller-1.4.0-37 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\969b80f5da53ed312e109f434c739266\transformed\profileinstaller-1.4.0\res
+com.aswfoods.fieldtrack.app-ui-unit-release-38 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\9b8dab764db749e4c04c236b06456269\transformed\ui-unit-release\res
+com.aswfoods.fieldtrack.app-room-ktx-2.6.1-39 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\9f5618559e2425a9f0e325fa8e4b6eb0\transformed\room-ktx-2.6.1\res
+com.aswfoods.fieldtrack.app-core-1.15.0-40 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\a309b43249e4e8380745f75a6ac7a32b\transformed\core-1.15.0\res
+com.aswfoods.fieldtrack.app-material-ripple-release-41 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\a52684b332f778a637634c6682ff6642\transformed\material-ripple-release\res
+com.aswfoods.fieldtrack.app-lifecycle-runtime-release-42 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\ace5cee328b2f8ccfb5199899c3377b0\transformed\lifecycle-runtime-release\res
+com.aswfoods.fieldtrack.app-work-runtime-ktx-2.10.0-43 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\ae76ce2ad0a4700b65f260347a2ddbed\transformed\work-runtime-ktx-2.10.0\res
+com.aswfoods.fieldtrack.app-savedstate-ktx-1.2.1-44 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\b3d25a7adabccf21fb5d81f5b9d2277a\transformed\savedstate-ktx-1.2.1\res
+com.aswfoods.fieldtrack.app-ui-tooling-release-45 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\bf06086f3b0239b7ea5f0a8d1df720a6\transformed\ui-tooling-release\res
+com.aswfoods.fieldtrack.app-tracing-1.2.0-46 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\c0dfe246d8e6f6d2f6e87551e167d634\transformed\tracing-1.2.0\res
+com.aswfoods.fieldtrack.app-animation-core-release-47 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\c138bac3a9817c4a19504ca7381d3dd7\transformed\animation-core-release\res
+com.aswfoods.fieldtrack.app-navigation-common-ktx-2.8.6-48 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\c8912260c7b61d27fbd9361ddde72709\transformed\navigation-common-ktx-2.8.6\res
+com.aswfoods.fieldtrack.app-material-icons-extended-release-49 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\d0c4909267efa03526b2c11af54c750d\transformed\material-icons-extended-release\res
+com.aswfoods.fieldtrack.app-material-icons-core-release-50 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\d217032e9e0bc9ae69657ad55e435c55\transformed\material-icons-core-release\res
+com.aswfoods.fieldtrack.app-ui-tooling-preview-release-51 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\d49942495353bcd5357c0c2b991d4982\transformed\ui-tooling-preview-release\res
+com.aswfoods.fieldtrack.app-lifecycle-runtime-ktx-release-52 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\db748bfddbe18a967f6abb5bc3ec0b64\transformed\lifecycle-runtime-ktx-release\res
+com.aswfoods.fieldtrack.app-sqlite-framework-2.4.0-53 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\dfad5d3e608805aa365b48b71a1d0aa2\transformed\sqlite-framework-2.4.0\res
+com.aswfoods.fieldtrack.app-core-runtime-2.2.0-54 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\e40c01608945aba829b46cbbb160c88b\transformed\core-runtime-2.2.0\res
+com.aswfoods.fieldtrack.app-navigation-compose-2.8.6-55 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\e4a088f2ccdd8ba8d7e0f1df6299d44b\transformed\navigation-compose-2.8.6\res
+com.aswfoods.fieldtrack.app-ui-geometry-release-56 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\f0ffbc0fb16f14f73f21cf71698dea1f\transformed\ui-geometry-release\res
+com.aswfoods.fieldtrack.app-lifecycle-service-2.8.7-57 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\f3b76805eacc1825eb4fc89f31fa579c\transformed\lifecycle-service-2.8.7\res
+com.aswfoods.fieldtrack.app-core-ktx-1.15.0-58 C:\Users\ITSALES-01\.gradle\caches\8.10.2\transforms\fabbe9f54ca2d6b6547f0b1b769f87ee\transformed\core-ktx-1.15.0\res
+com.aswfoods.fieldtrack.app-pngs-59 D:\Data Salomo\fieldtrack-app\fieldtrack-app\app\build\generated\res\pngs\debug
+com.aswfoods.fieldtrack.app-resValues-60 D:\Data Salomo\fieldtrack-app\fieldtrack-app\app\build\generated\res\resValues\debug
+com.aswfoods.fieldtrack.app-packageDebugResources-61 D:\Data Salomo\fieldtrack-app\fieldtrack-app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.aswfoods.fieldtrack.app-packageDebugResources-62 D:\Data Salomo\fieldtrack-app\fieldtrack-app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.aswfoods.fieldtrack.app-debug-63 D:\Data Salomo\fieldtrack-app\fieldtrack-app\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.aswfoods.fieldtrack.app-debug-64 D:\Data Salomo\fieldtrack-app\fieldtrack-app\app\src\debug\res
+com.aswfoods.fieldtrack.app-main-65 D:\Data Salomo\fieldtrack-app\fieldtrack-app\app\src\main\res
